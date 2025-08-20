@@ -7,11 +7,13 @@ You can view the live site here:
 https://0cyberfox.github.io/personal-website/
 
 ## Project Structure
+```
 VPC/
-├── index.html          # Homepage
+├── index.html       # Homepage
 └── resources/
     └── css/
         └── style.css   # Stylesheet
+```
 
 ## Deployment
 The website is hosted using GitHub Pages.
